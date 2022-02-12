@@ -4,7 +4,7 @@ source ~/.vim/vimrc/base_config.vim
 source ~/.vim/vimrc/airline_config.vim
 source ~/.vim/vimrc/echodoc_config.vim
 source ~/.vim/vimrc/fzf_config.vim
-source ~/.vim/vimrc/guntentags_config.vim
+"source ~/.vim/vimrc/guntentags_config.vim
 source ~/.vim/vimrc/LanguageClient-neovim.vim
 source ~/.vim/vimrc/LeaderF_config.vim
 source ~/.vim/vimrc/nerdcommenter_config.vim
@@ -16,3 +16,6 @@ source ~/.vim/vimrc/vim-better-whitespace_config.vim
 source ~/.vim/vimrc/vim-easymotion_config.vim
 source ~/.vim/vimrc/vim-indent-guides_config.vim
 source ~/.vim/vimrc/vim-textobj_config.vim
+source ~/.vim/vimrc/vim-lsp-cxx-highlight.vim
+source ~/.vim/vimrc/vim-ccls.vim
+source ~/.vim/vimrc/deoplete.vim
